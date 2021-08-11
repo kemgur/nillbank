@@ -1,0 +1,7 @@
+*.txt
+../.idea
+target
+.DS_Store
+test-output
+/configuration.properties
+
