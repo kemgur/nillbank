@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a68bddc-9c1d-4172-954e-4d17e6c43af7" name="Default Changelist" comment="" />
+    <list default="true" id="7a68bddc-9c1d-4172-954e-4d17e6c43af7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/FirstProject/linnbank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstProject/linnbank.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
