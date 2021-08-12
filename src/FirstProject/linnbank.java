@@ -6,5 +6,6 @@ public class linnbank {
         System.out.println("We are learning java");
         System.out.println("You can learn java");
         System.out.println("You are able to learn java");
+        System.out.println("You are able to learn javascript");
     }
 }
